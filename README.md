@@ -17,7 +17,7 @@ https://daytime.runmercury.com/app/sample
 
 サンプルアプリでは、Python の天文計算ライブラリ [PyEphem](https://rhodesmill.org/pyephem/) を使用して日の出／入を計算しています。
 
-サンプルアプリを構成するファイルは以下のとおりです。
+サンプルアプリを構成するファイル（※Mercury Cloudへアップロードするファイル）は以下のとおりです。
 
 * requirements.txt
 * sample.ipynb
