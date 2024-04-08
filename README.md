@@ -31,7 +31,6 @@ https://daytime.runmercury.com/app/sample
 
 
 ## 参照
-* https://colab.research.google.com/
 * https://cloud.runmercury.com/
 * https://runmercury.com/docs/
 * https://rhodesmill.org/pyephem/
