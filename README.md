@@ -13,7 +13,7 @@ Calculate daytime lentgh all through the year
 
 https://daytime.runmercury.com/app/sample
 
-![image](https://github.com/orinbou/CalcDaytime/assets/1947005/fc791dfe-fbb5-4b72-a010-361778e44ab1)
+![image](assets/SampleAppImage.jpg)
 
 サンプルアプリでは、Python の天文計算ライブラリ [PyEphem](https://rhodesmill.org/pyephem/) を使用して日の出／入を計算しています。
 
@@ -25,5 +25,6 @@ https://daytime.runmercury.com/app/sample
 ## 参照
 * https://colab.research.google.com/
 * https://runmercury.com/
+* https://runmercury.com/docs/
 * https://rhodesmill.org/pyephem/
 * https://qiita.com/DoroDango/items/269c74d091ef6b94b9ab
