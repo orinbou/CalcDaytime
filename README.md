@@ -38,3 +38,5 @@ https://daytime.runmercury.com/app/sample
 * https://github.com/mljar/mercury
 * https://qiita.com/gmoriki/items/665426c88b0662403443
 * https://qiita.com/DoroDango/items/269c74d091ef6b94b9ab
+* https://eco.mtk.nao.ac.jp/koyomi/dni/dni15.html
+* http://zakii.la.coocan.jp/physics/22_sunrise_circle.htm
