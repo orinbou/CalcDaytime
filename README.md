@@ -26,8 +26,8 @@ https://daytime.runmercury.com/app/sample
 
 サンプルアプリを構成するファイル（※Mercury Cloudへアップロードするファイル）は以下のとおりです。
 
-* requirements.txt
-* sample.ipynb
+* パッケージ管理ファイル： [requirements.txt](requirements.txt)
+* Jupyter Notebookファイル： [sample.ipynb](sample.ipynb)
 
 
 ## 参照
