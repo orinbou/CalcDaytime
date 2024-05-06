@@ -33,6 +33,7 @@ https://daytime.runmercury.com/app/sample
 ## 参照
 * https://cloud.runmercury.com/
 * https://runmercury.com/docs/
+* https://docs.runmercury.com/app/checkbox
 * https://rhodesmill.org/pyephem/
 * https://github.com/mljar/mercury
 * https://qiita.com/gmoriki/items/665426c88b0662403443
