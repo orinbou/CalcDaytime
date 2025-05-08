@@ -29,6 +29,18 @@ https://daytime.runmercury.com/app/sample
 * パッケージ管理ファイル： [requirements.txt](requirements.txt)
 * Jupyter Notebookファイル： [sample.ipynb](sample.ipynb)
 
+### 補足
+
+ 本プログラムを [Google Colab](https://colab.research.google.com/) で実行する前に以下のコマンドを実行してモジュールをインストールしておく必要があります。
+
+```
+pip install mercury
+```
+
+```
+pip install ephem
+```
+
 
 ## 参照
 * https://cloud.runmercury.com/
