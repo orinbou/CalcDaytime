@@ -15,6 +15,33 @@ https://daytime.runmercury.com/app/sample
 
 ![image](assets/SampleAppImage.jpg)
 
+### 🗺位置
+
+#### デフォルト
+
+##### 横浜（神奈川）@国立天文台
+
+https://daytime.runmercury.com/app/sample
+
+#### カスタム位置
+
+##### 🗾国内
+
+| 地域     | リンク                                                                  |
+| ------ | -------------------------------------------------------------------- |
+| 東京     | <https://daytime.runmercury.com/app/sample?lat=35.6812&lon=139.7671> |
+| 札幌     | <https://daytime.runmercury.com/app/sample?lat=43.0642&lon=141.3469> |
+| 沖縄（那覇） | <https://daytime.runmercury.com/app/sample?lat=26.2124&lon=127.6809> |
+
+##### 🌏海外
+
+| 地域         | リンク                                                                   |
+| ---------- | --------------------------------------------------------------------- |
+| グリニッジ天文台   | <https://daytime.runmercury.com/app/sample?lat=51.4769&lon=-0.0005>   |
+| ワシントンDC    | <https://daytime.runmercury.com/app/sample?lat=38.9072&lon=-77.0369>  |
+| メルボルン      | <https://daytime.runmercury.com/app/sample?lat=-37.8136&lon=144.9631> |
+| チクラーヨ（ペルー） | <https://daytime.runmercury.com/app/sample?lat=-6.7714&lon=-79.8411>  |
+
 ### ライブラリ
 
 サンプルアプリでは、主に以下の Python ライブラリを使用しています。

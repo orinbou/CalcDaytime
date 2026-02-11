@@ -1,2 +1,3 @@
 mercury==2.3.10
 ephem==4.1.5
+timezonefinder==6.5.2
